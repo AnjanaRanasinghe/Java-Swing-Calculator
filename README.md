@@ -21,8 +21,8 @@ Apache NetBeans (recommended)
 **1. Clone the Repository**
 
 If you have Git installed:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/AnjanaRanasinghe/Java-Swing-Calculator.git
+cd Java-Swing-Calculator
 
 Or, you can download the ZIP file from GitHub and extract it to a folder of your choice.
 
