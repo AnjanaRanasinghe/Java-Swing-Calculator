@@ -15,7 +15,9 @@ A simple electronic calculator built using Java Swing. This project demonstrates
 
 ## Prerequisites
 Java JDK (version 8 or later)
+
 Make sure Java is installed and the JAVA_HOME environment variable is set.
+
 Apache NetBeans (recommended)
 
 ## Installation & Usage
