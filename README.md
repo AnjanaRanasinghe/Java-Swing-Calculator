@@ -1,6 +1,7 @@
 # Java Swing Calculator
 
 A simple electronic calculator built using Java Swing. This project demonstrates a basic GUI calculator capable of performing standard arithmetic operations.
+
 ---
 
 ## Features
